@@ -29,11 +29,7 @@ url: "https://randomcode.ca" # the base hostname & protocol for your site, e.g. 
 github_username:  MobSlicer152
 
 # Build settings
-<<<<<<< HEAD
 theme: minima
-=======
-theme: jekyll-theme-slate
->>>>>>> 3e1a7040767f4b8c3e18b6d05dd471049f7d1687
 plugins:
   - jekyll-feed
 
