@@ -29,7 +29,7 @@ url: "https://randomcode.ca" # the base hostname & protocol for your site, e.g. 
 github_username:  RandomcodeDev
 
 # Build settings
-theme: minima
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
