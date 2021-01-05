@@ -1,0 +1,3 @@
+[submodule "purpl-engine"]
+	path = purpl-engine
+	url = https://github.com/randomcodedev/purpl-engine
