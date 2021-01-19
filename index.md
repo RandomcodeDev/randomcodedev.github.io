@@ -4,5 +4,3 @@
 
 layout: home
 ---
-
-[Purpl Engine](/purpl-engine.md)
